@@ -4,7 +4,8 @@
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=B3N0I7)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=B3N0I7&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B3N0I7)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 
 <!--
 **B3N0I7/B3N0I7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
